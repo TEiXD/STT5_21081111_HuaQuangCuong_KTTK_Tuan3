@@ -49,6 +49,11 @@ body {
     background-color: #3d73b1;
     border: 0;
     color: white;
+    cursor: pointer;
+}
+
+.menu:hover {
+    background-color: #1c3451;
 }
 
 .timkiem {
